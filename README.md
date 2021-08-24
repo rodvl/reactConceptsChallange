@@ -2,4 +2,4 @@
 Gostack react concepts challange
 
 
-It uses node concepts challange backend
+It uses [nodeConceptsChallange](https://github.com/rodvl/nodeConceptsChallange)
